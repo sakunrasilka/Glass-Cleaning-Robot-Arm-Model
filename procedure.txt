@@ -1,0 +1,5 @@
+(01) open the DOF2_test.slx and update it to the model workspace
+(02) then run the assem1.m mat file to create the Rigid Body tree
+(03) open the Selected_Area_cleaning.slx under the Selected Area cleaning folder
+(04) wait for the simulation
+(05) in the input angle section you can select the angle you prefer according to the region of A,B,C,D... and change the input_angel value
