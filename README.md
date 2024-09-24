@@ -11,3 +11,7 @@ We used two signal builders to give this rotational action
 
 ![2 Rotational Ceaning](https://github.com/user-attachments/assets/a4a7964a-569b-4fc3-9155-cc96bc81f95e)
 
+### Simulink Model
+
+![Screenshot 2023-12-12 183608](https://github.com/user-attachments/assets/b8e872d3-bcc4-48d6-beb8-547c682c23fc)
+
